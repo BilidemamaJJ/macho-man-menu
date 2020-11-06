@@ -1,0 +1,8 @@
+div{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 0.4rem;
+    text-indent: 10px;
+    color: rgb(150, 146, 146);
+}

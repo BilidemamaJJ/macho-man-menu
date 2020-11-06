@@ -216,5 +216,21 @@ const GlobalStyle = createGlobalStyle`
     a {
         color: #00afc7; 
     }
+
+    .district{
+        // background: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        height: 0.4rem;
+    }
+    .district span{
+        font-size: 14px;
+        color:  rgb(150, 146, 146);
+        text-indent: 10px;
+    }
+    .gooddishes{
+        background: #f5f5f5;
+    }
 `;
 export default GlobalStyle;
